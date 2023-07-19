@@ -1,5 +1,3 @@
-## Yerd))
-
 What we yerd in life echoes in eternity.
 
 ### Definition
