@@ -1,10 +1,9 @@
-![Yerd Tree](img/logo-large.png)
-
-## Yerd))
+<img src="/profile/img/logo-large.png" alt="Yerd))" height="200">
+<hr/>
 
 What we yerd in life echoes in eternity.
 
-### Definition
+### Yerd
 
 *Verb*
 1. To materialize an insight derived from contemplation of a body of knowledge.
