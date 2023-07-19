@@ -1,3 +1,5 @@
+![Yerd Tree](img/logo-large.png)
+
 ## Yerd))
 
 What we yerd in life echoes in eternity.
