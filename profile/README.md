@@ -1,17 +1,16 @@
-<img src="/profile/img/logo-large.png" alt="Yerd))" height="200">
-<hr/>
+## Yerd))
 
 What we yerd in life echoes in eternity.
 
-### Yerd
+### Definition
 
-*Verb*
+yerd (v)
 1. To materialize an insight derived from contemplation of a body of knowledge.
    - If something is missing, *yerd* it into existence.
 2. To evolve and refine an experimental concretion in an interative manner.
    - To start, first observe, then grok, then *yerd*.
 
-*Noun*
+yerd (n)
 1. The process of yerding.
    - *Yerding* enables the emergence of more *yerds*.
 2. A work created by the act of yerding.
