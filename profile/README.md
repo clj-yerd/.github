@@ -5,7 +5,7 @@ What we yerd in life echoes in eternity.
 yerd (v)
 1. To materialize an insight derived from contemplation of a body of knowledge.
    - If something is missing, *yerd* it into existence.
-2. To evolve and refine an experimental concretion in an interative manner.
+2. To evolve and refine an experimental concretion in an iterative manner.
    - To start, first observe, then grok, then *yerd*.
 
 yerd (n)
